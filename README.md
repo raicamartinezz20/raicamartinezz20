@@ -1,4 +1,6 @@
-## Hi there 👋
+# Seja Bem Vindo (a) 💕
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raicamartinezz20&show_icons=true&bg_color=ffcbdb&border_color=0000ff)
 
 <!--
 **raicamartinezz20/raicamartinezz20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
