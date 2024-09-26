@@ -1,5 +1,7 @@
 # Seja Bem Vindo (a) 💕
 
+### Olá, meu nome é Raica Martinez, sou aluna do curso de Desenvolvimento de Sistemas no SENAI Jandira 🔥
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raicamartinezz20&show_icons=true&bg_color=ffcbdb&border_color=0000ff)
 
 <!--
