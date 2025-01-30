@@ -1,6 +1,6 @@
 # Seja Bem Vindo (a) 💕
 
-### Olá, meu nome é Raica Martinez, sou aluna do curso de Desenvolvimento de Sistemas no SENAI Jandira 🔥
+### Olá, meu nome é Raica Martinez, sou estudante de Engenharia de Software na Universidade São Judas. Me formei em Desenvolvimento de Sistemas pelo SENAI Jandira em dezembro de 2024. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raicamartinezz20&show_icons=true&bg_color=ffcbdb&border_color=0000ff)
 
